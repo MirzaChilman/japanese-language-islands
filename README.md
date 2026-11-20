@@ -39,6 +39,6 @@ For new islands, say what you would naturally tell someone in Indonesian or Engl
 
 Use the Markdown files linked above as the source for practice. Load the selected file and use its saved rows as written.
 
-Each file has one table with the columns `ID`, `Role`, `Japanese`, `Romaji`, and `English`. The `prompt` row starts the conversation. Read or play the `answer` rows in file order to hear the complete island. Use `follow-up` for extra practice and `reply-pattern` when available.
+Each file has one table with the columns `ID`, `Role`, `Japanese`, `Romaji`, and `English`. The `prompt` row starts the conversation. Read or play the `answer` rows in file order to hear the complete island. Use `follow-up` for extra practice and `reply-pattern` when available. The `variant` rows give you alternate wording and topic-specific lines for conversation. Each island has at least 20 practice sentences across `answer` and `variant` rows. They can be practiced individually or swapped into the core answer where they fit. The linked MP3 covers the core `answer` rows.
 
 Keep each row ID stable when editing its wording so an app can associate practice history or audio with that sentence. Parse the Markdown table and use the Japanese column for text-to-speech.
