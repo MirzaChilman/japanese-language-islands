@@ -1,5 +1,7 @@
 # Basketball
 
+[Download practice audio (MP3)](basketball.mp3) — English answer, then Japanese answer.
+
 | ID | Role | Japanese | Romaji | English |
 | --- | --- | --- | --- | --- |
 | basketball-prompt | prompt | バスケ好き？ | Basuke suki? | Do you like basketball? |

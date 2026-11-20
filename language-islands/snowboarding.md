@@ -1,5 +1,7 @@
 # Snowboarding
 
+[Download practice audio (MP3)](snowboarding.mp3) — English answer, then Japanese answer.
+
 | ID | Role | Japanese | Romaji | English |
 | --- | --- | --- | --- | --- |
 | snowboarding-prompt | prompt | 冬は何してるの？ | Fuyu wa nani shiteru no? | What do you do in winter? |
